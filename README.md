@@ -5,3 +5,5 @@ Examples of [Python](https://www.python.org) concepts compared with [Java](https
 
 Look at the [python-vs-java.ipynb](./python-vs-java.ipynb) file on GitHub. The file is a [Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) with runnable code examples.  
 
+To make changes, try going to: [jupyter-lite.glitch.me](https://jupyter-lite.glitch.me)
+
